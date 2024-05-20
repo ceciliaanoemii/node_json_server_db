@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "id": "a920",
+      "nombre": "Hector",
+      "apellido": "Dominguez",
+      "materias": [
+        {
+          "nombre": "PHP desde Cero"
+        },
+        {
+          "nombre": "Docker desde Cero"
+        }
+      ]
+    },
+    {
+      "id": "6707",
+      "nombre": "Ceci",
+      "apellido": "Mogro",
+      "materias": [
+        {
+          "nombre": "Java"
+        },
+        {
+          "nombre": "SQL"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Matheo",
+      "apellido": "Coronel",
+      "promedio": 10,
+      "id": "c027"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 8.2,
+      "id": "9478"
+    },
+    {
+      "id": "da1c",
+      "nombre": "Elon",
+      "apellido": "Musk",
+      "promedio": 9.2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "be4d"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duración": 8,
+      "dificultad": "intermedia",
+      "id": "19b9"
+    },
+    {
+      "nombre": "Angular 17 desde Cero",
+      "duración": 8,
+      "dificultad": "alta",
+      "id": "6314"
+    }
+  ]
+}
